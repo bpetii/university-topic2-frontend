@@ -1,0 +1,6 @@
+export const WEBSOCKET_OPENING = 'WEBSOCKET_OPENING';
+export const WEBSOCKET_OPENED = 'WEBSOCKET_OPENED';
+export const WEBSOCKET_CLOSED = 'WEBSOCKET_CLOSED';
+
+// Server communication
+export const WEBSOCKET_TOKEN = 'WEBSOCKET_TOKEN';
